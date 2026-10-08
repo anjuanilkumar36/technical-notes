@@ -67,7 +67,7 @@ Products displayed
 
 ---
 
-react-django-flow.png
+<img src="react-django-flow.png" alt="React Django Architecture">
 
 ## What Does Each Part Do?
 
